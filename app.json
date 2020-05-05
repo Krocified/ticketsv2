@@ -1,0 +1,17 @@
+{
+  "name": "ticketsv2",
+  "displayName": "ticketsv2",
+  "expo": {
+    "name": "ticketsv2",
+    "slug": "ticketsv2",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
