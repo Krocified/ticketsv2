@@ -2,7 +2,8 @@
   "name": "ticketsv2",
   "displayName": "ticketsv2",
   "expo": {
-    "name": "ticketsv2",
+    "name": "Tickets - Experience Cinema",
+    "icon": "./src/ticket.png",
     "slug": "ticketsv2",
     "version": "1.0.0",
     "platforms": [
